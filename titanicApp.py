@@ -13,7 +13,7 @@ by Anuraag Rath
 st.sidebar.header('Filter Preferences')
 
 def openData():
-    url = "/Users/apple/Desktop/DataSciApps/titanic.csv"
+    url = "titanic.csv"
     csvopen = pd.read_csv(url)
     return csvopen
 csvopen = openData()
