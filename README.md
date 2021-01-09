@@ -13,7 +13,7 @@ A simple webapp that displays information about the deathtoll of the Titanic usi
 
 ## Running the App:
 
-![terminal](/images/titanic.png)
+![terminal](/images/terminal.png)
 
 ## Sidebar - Filters:
 
